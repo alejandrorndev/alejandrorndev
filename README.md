@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm alejandro stiven restrepo naranjo</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
+![GitHub User's stars](https://img.shields.io/github/stars/alejandrorndev)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrorndev&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrorndev" /> </p>
 
