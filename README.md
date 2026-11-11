@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind UI**
 
-- 👨‍💻 All of my projects are available at [https://alejandrorndev.github.io/portafolio/](https://portafoliov1-iota.vercel.app/en)
+- 👨‍💻 All of my projects are available at [https://portafoliov1-iota.vercel.app/en](https://portafoliov1-iota.vercel.app/en)
 
 - 💬 Ask me about **vue, myqsl, node and docker**
 
